@@ -41,4 +41,6 @@ An analysis of credit default risk using supervised machine learning algorithms 
 
 - Upon review of the various machine learning models, we can determine the following:
 
+* The balanced_random forrest model had the best accuracy score, precision, and F1 score.  The other machine learning models did not predict a balanced accuracy score or F1 that adequately represented the data. The Naive randome sampling, SMOTE, and Undersampling models were all similar with balanced accuracy scores of approximately 65% but very low F1 scores suggesting a pronounced imbalance between sensitivity and precision.
+
 
